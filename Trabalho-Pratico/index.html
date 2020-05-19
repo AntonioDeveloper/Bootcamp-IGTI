@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Seletor de Cores</title>
+  <link rel="stylesheet" type="text/css" href="./css/styles.css" />
+</head>
+
+<body>
+  <div class="container">
+    <div class="sliders">
+      <ul>
+        <li>
+          <span>(R) Vermelho</span>
+          <input id="red" class="barra" type="range" min="0" max="255" value="0">
+          <input id="redNum" type="text" maxlength="3" size="3" min="0" max="255" readonly>
+        </li>
+        <li>
+          <span>(G) Verde</span>
+          <input id="green" class="barra" type="range" min="0" max="255" value="0">
+          <input id="greenNum" type="text" maxlength="3" size="3" min="0" max="255" readonly>
+        </li>
+        <li>
+          <span>(B) Azul</span>
+          <input id="blue" class="barra" type="range" min="0" max="255" value="0">
+          <input id="blueNum" type="text" maxlength="3" size="3" min="0" max="255" readonly>
+        </li>
+      </ul>
+    </div>
+    <div class="blocoCor"></div>
+  </div>
+  <script src="./js/scripts.js"></script>
+</body>
+
+</html>

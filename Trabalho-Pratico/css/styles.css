@@ -1,0 +1,21 @@
+:root{
+  --color: rgb(255,13,255)
+}
+
+.container{
+  width: 250px;
+  height: auto;
+}
+
+.barra{
+  width: 140px;
+  margin-left: 10px;
+}
+
+.blocoCor{
+  width: 200px;
+  height: 200px;  
+  background-color: var(--color);
+}
+
+
