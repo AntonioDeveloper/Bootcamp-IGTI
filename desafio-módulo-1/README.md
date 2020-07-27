@@ -11,3 +11,4 @@ Nela é possível obter dados estatísticos, como número de usuários do sexo m
 - Realizar diversos cálculos com array methods como map, filter e reduce.
 - Realizar requisições HTTP com o comando fetch.
 
+<img src="Screenshot_3.png" >
