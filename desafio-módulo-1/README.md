@@ -1,8 +1,8 @@
-# h1 Aplicação de busca de usuários
+# Aplicação de busca de usuários
 
 Nela é possível obter dados estatísticos, como número de usuários do sexo masculino, feminino, média e soma das idades.
 
-# h3 Objetivos atingidos:
+### Objetivos atingidos:
 
 - Declarar elementos HTML como títulos, input, div, span, ul, li etc.
 - Estilizar o app com CSS (o framework Materialize foi utilizado).
