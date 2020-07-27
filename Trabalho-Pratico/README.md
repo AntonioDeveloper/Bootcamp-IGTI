@@ -10,4 +10,4 @@
 - Utilização de funções com JavaScript e CSS.
 - Manipulação direta de CSS com JavaScript.
 
-<img src="Screenshot_4.png>
+<img src="Screenshot_4.png">
